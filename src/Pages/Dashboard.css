@@ -1,0 +1,13 @@
+.content{
+
+    overflow: scroll;
+    height: 91vh;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    background: #F0F0F7;
+  }
+  
+  .content::-webkit-scrollbar {
+    width: 0em;
+    height: 2em
+  }

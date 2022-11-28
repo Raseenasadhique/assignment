@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+
+<defs>
+</defs>
+<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)" >
+	<path d="M 27 72 c -1.657 0 -3 -1.343 -3 -3 V 56.913 c 0 -1.657 1.343 -3 3 -3 s 3 1.343 3 3 V 69 C 30 70.657 28.657 72 27 72 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(95,94,164); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<path d="M 45 72 c -1.657 0 -3 -1.343 -3 -3 V 45 c 0 -1.657 1.343 -3 3 -3 c 1.657 0 3 1.343 3 3 v 24 C 48 70.657 46.657 72 45 72 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(95,94,164); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<path d="M 63 72 c -1.657 0 -3 -1.343 -3 -3 V 21 c 0 -1.657 1.343 -3 3 -3 s 3 1.343 3 3 v 48 C 66 70.657 64.657 72 63 72 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(95,94,164); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<path d="M 78.193 90 H 11.807 C 5.296 90 0 84.703 0 78.193 V 11.807 C 0 5.296 5.296 0 11.807 0 h 66.387 C 84.703 0 90 5.296 90 11.807 v 66.387 C 90 84.703 84.703 90 78.193 90 z M 11.807 6 C 8.605 6 6 8.605 6 11.807 v 66.387 C 6 81.396 8.605 84 11.807 84 h 66.387 C 81.396 84 84 81.396 84 78.193 V 11.807 C 84 8.605 81.396 6 78.193 6 H 11.807 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(95,94,164); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+</g>
+</svg>
